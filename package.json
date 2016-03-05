@@ -1,0 +1,23 @@
+{
+  "name": "start_here_node_api",
+  "version": "1.0.0",
+  "description": "Node.js API framework with one purpose: handling http requests, or socket connections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonhejna/start_here_node_api.git"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "Jason Hejna",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jasonhejna/start_here_node_api/issues"
+  },
+  "homepage": "https://github.com/jasonhejna/start_here_node_api#readme"
+}

@@ -1,0 +1,8 @@
+{ "name" : "test-component",
+  "main" : "controller.js",
+  "version" : "0.0.0",
+  "dependencies" : {
+    "model": "file:model.js"
+  },
+  "private": true
+}
